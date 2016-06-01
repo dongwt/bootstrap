@@ -1,0 +1,21 @@
+{
+  "name": "bootstrap",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dongwt/bootstrap",
+  "authors": [
+    "dongwt <834575475@qq.com>"
+  ],
+  "description": "lib",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "jquery": "~2.2.4"
+  }
+}
