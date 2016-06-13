@@ -3,4 +3,4 @@ $('#popover').popover({
     content:"popover"
 })
 
-$('#popover').popover('show');
+//$('#popover').popover('show');
