@@ -17,6 +17,7 @@
   "dependencies": {
     "bootstrap": "~3.3.6",
     "bootstrap-datepicker": "~1.6.1",
-    "jquery": "~2.2.4"
+    "jquery": "~2.2.4",
+    "jquery.nicescroll": "~3.6.8"
   }
 }
